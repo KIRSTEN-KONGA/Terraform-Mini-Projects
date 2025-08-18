@@ -1,7 +1,7 @@
 ## Requirements
 ## Created a DRY Terraform code for the below setup. (Refer to each files in the Repo for detailed understanding)
 
-<p align="center">
+<p align="left">
   <img src="./Vnet-peering.png" alt="Alt text" width="600"/>
 </p>
 
@@ -45,6 +45,7 @@ No modules.
 ## Outputs
 
 No outputs.
+
 
 
 
