@@ -1,7 +1,7 @@
 ## Requirements
 
 <p align="center">
-  <img src="./Vnet-peering.png" alt="Alt text" width="400"/>
+  <img src="./Vnet-peering.png" alt="Alt text" width="600"/>
 </p>
 
 | Name | Version |
@@ -44,4 +44,5 @@ No modules.
 ## Outputs
 
 No outputs.
+
 
