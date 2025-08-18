@@ -1,5 +1,9 @@
 ## Requirements
 
+<p align="center">
+  <img src="./Vnet-peering.png" alt="Alt text" width="400"/>
+</p>
+
 | Name | Version |
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.9.0 |
@@ -40,3 +44,4 @@ No modules.
 ## Outputs
 
 No outputs.
+
