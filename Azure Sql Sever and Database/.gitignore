@@ -1,0 +1,27 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+*.terraform
+
+*.d.ts
+*.js
+node_modules
+cdktf.out
+.gen
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.tfvars
+crash.log
+
+# Local IDE / OS files
+.vscode/
+.DS_Store
+# Local environment files
+.env
